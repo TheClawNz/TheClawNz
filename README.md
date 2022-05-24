@@ -1,7 +1,6 @@
 <h1 align="center" style="color:#fff">
   Alican Öztürk
-</h1>
-<hr> 
+</h1 
 <h3 align="left">
 Ben kimim?
 </h3>

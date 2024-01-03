@@ -1,5 +1,5 @@
-# 💫 About Me:
-Ben kimim?<br>Selam ben Alican ÖZTÜRK, 2019 yılından beri yazılım öğreniyorum ve projeler geliştirip insanlara yardımcı oluyorum.
+# Who am I?:
+Hi, I'm TheClawNz, I've been learning software and developing projects and helping people since 2019.
 
 
 # 💻 Tech Stack:
